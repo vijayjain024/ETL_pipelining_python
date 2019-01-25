@@ -1,0 +1,8 @@
+---
+user: 
+password: 
+host_name: 
+port: 5439
+database_name: dev
+schema_name: pandora_test
+table_name: wikilogs

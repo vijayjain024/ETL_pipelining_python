@@ -1,0 +1,8 @@
+---
+year: 2012
+month: '01'
+day: '01'
+hours: ['00']
+base_url: https://dumps.wikimedia.org/other/pagecounts-raw/
+load_to_DB: redshift
+s3: s3_logon

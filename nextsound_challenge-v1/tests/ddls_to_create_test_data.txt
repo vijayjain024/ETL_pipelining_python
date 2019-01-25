@@ -1,0 +1,36 @@
+create table wikilogs1(
+page_name varchar,
+num_views int,
+time varchar(20),
+language varchar
+)
+
+
+insert into wikilogs1 values('aa',1,'2012-01-01 01:00', 'en');
+insert into wikilogs1 values('bb','2','2012-01-01 01:00','en');
+insert into wikilogs1 values('cc','3','2012-01-01 01:00','en');
+insert into wikilogs1 values('dd','4','2012-01-01 01:00','en');
+insert into wikilogs1 values('ee','5','2012-01-01 01:00','en');
+insert into wikilogs1 values('ff','6','2012-01-01 01:00','en');
+insert into wikilogs1 values('gg','6','2012-01-01 01:00','en');
+insert into wikilogs1 values('hh','7','2012-01-02 01:00','en');
+insert into wikilogs1 values('ii','7','2012-01-02 01:00','en');
+insert into wikilogs1 values('jj','8','2012-01-02 01:00','en');
+insert into wikilogs1 values('kk','9','2012-01-02 01:00','en');
+insert into wikilogs1 values('ll','10','2012-01-02 01:00','en');
+insert into wikilogs1 values('mm','11','2012-01-02 01:00','en');
+insert into wikilogs1 values('nn','12','2012-01-02 01:00','en');
+insert into wikilogs1 values('aaa','1','2012-01-01 01:00','fr');
+insert into wikilogs1 values('bbb','2','2012-01-01 01:00','fr');
+insert into wikilogs1 values('ccc','3','2012-01-01 01:00','fr');
+insert into wikilogs1 values('ddd','4','2012-01-01 01:00','fr');
+insert into wikilogs1 values('eee','5','2012-01-01 01:00','fr');
+insert into wikilogs1 values('fff','6','2012-01-01 01:00','fr');
+insert into wikilogs1 values('ggg','7','2012-01-01 01:00','fr');
+insert into wikilogs1 values('hhh','8','2012-01-01 01:00','fr');
+insert into wikilogs1 values('iii','9','2012-01-01 01:00','fr');
+insert into wikilogs1 values('jjj','10','2012-01-01 01:00','fr');
+insert into wikilogs1 values('kkk','11','2012-01-01 01:00','fr');
+insert into wikilogs1 values('lll','12','2012-01-01 01:00','fr');
+insert into wikilogs1 values('mmm','13','2012-01-01 01:00','fr');
+insert into wikilogs1 values('nnn','14','2012-01-01 01:00','fr');
