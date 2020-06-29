@@ -1,5 +1,5 @@
 ##Author: Vijay Jain
-##For: NextSound Challenge
+##For:
 ##Description: Building a scalable ETL pipeline to load wikilogs into a database system and query the database to analyze dataset
 
 Folder Description:
